@@ -1,0 +1,5 @@
+# ignore objects and archives, anywhere in the tree.
+    *.[oa]
+# ignore generated html files,
+    *.html
+    *.DS_Store
